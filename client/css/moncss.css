@@ -1,0 +1,10 @@
+body {
+  background-image: url();
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 0;
+  background-attachment: fixed;
+}
+h1,h2,h4,div{
+	color :white;
+}
