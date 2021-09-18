@@ -92,6 +92,7 @@
                 <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#accessories" role="tab">Accessories</a></li>
                 <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#essential" role="tab">Essential</a></li>
                 <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#prices" role="tab">Prices</a></li>
+                <?php // TODO: marque voiture dynamique ?>
               </ul>
               <!--/ End Tab Nav -->
             </div>

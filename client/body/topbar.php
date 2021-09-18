@@ -62,6 +62,7 @@
                 <option>mobile</option>
                 <option>kid’s item</option>
               </select>
+              <?php // TODO: rendre dynamique ?>
               <form>
                 <input name="search" placeholder="Search Products Here....." type="search">
                 <button class="btnn"><i class="ti-search"></i></button>
